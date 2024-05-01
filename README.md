@@ -1,9 +1,15 @@
-<h1 align="center">Harshit Pujari</h1>
+<h1 align="center">Hi 👋, I'm Harshit Pujari</h1>
 <h3 align="center">A developer from India</h3>
+
 <p align="center">
   <img height="300" width="300" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit2012&label=Profile%20views&color=0e75b6&style=flat" alt="harshit2012" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit2012" alt="harshit2012" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
