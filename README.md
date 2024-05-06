@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Pujari</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">A fronted developer from India</h3>
 
 <p align="center">
   <img height="300" width="300" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
