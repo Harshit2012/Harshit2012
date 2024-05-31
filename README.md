@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit2012&label=Profile%20views&color=0e75b6&style=flat" alt="harshit2012" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit2012" alt="harshit2012" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit2012&theme=onedark" alt="harshit2012" /></a> </p>
 
 <h3 align="left">Codepen Profile:</h3>
 <p align="left">
