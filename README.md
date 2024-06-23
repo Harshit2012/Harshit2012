@@ -36,6 +36,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit2012&" alt="harshit2012" /></p>
 
+## Profile Views
+
 ###
 
 <div align="center">
