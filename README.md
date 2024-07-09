@@ -42,6 +42,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshit2012&theme=chartreuse_dark&utcOffset=8)
 
+![github-user-contribution (1)](https://github.com/Harshit2012/Harshit2012/assets/105143145/fec66f91-06f5-47d0-96a2-a0d0cf76a6b5)
+
 ## Profile Views
 
 ###
