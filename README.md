@@ -32,6 +32,10 @@
 
 <h1 align="center">Stats</h1>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit2012&show_icons=true&locale=en" alt="harshit2012" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit2012&" alt="harshit2012" /></p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit2012&theme=chartreuse_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshit2012&theme=chartreuse_dark)
